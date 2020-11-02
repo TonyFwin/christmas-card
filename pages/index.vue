@@ -1,26 +1,9 @@
 <template>
-  <div class="container">
+  <div class="mx-auto">
     <div>
-      <Logo />
-      <h1 class="title">christmas-card</h1>
-      <div class="links">
-        <a
-          href="https://nuxtjs.org/"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="button--green"
-        >
-          Documentation
-        </a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="button--grey"
-        >
-          GitHub
-        </a>
-      </div>
+      <Photo />
+      <Greeting />
+      <Moving />
     </div>
   </div>
 </template>
@@ -35,15 +18,6 @@ export default {}
 @apply min-h-screen flex justify-center items-center text-center mx-auto;
 }
 */
-.container {
-  font-family: 'Playfair Display', serif;
-  margin: 0 auto;
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
 
 .title {
   display: block;
