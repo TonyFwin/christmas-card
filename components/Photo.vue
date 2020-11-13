@@ -26,7 +26,7 @@ export default {}
   width: 9em;
 }
 .tape.bottom-right {
-  right: -15px;
+  right: 0;
   bottom: 0em;
 }
 .tape:after,
