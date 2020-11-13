@@ -6,6 +6,7 @@
 
 <style>
 html {
+  overflow-x: hidden;
   font-family: 'Open Sans', sans-serif;
   font-size: 16px;
   word-spacing: 1px;
