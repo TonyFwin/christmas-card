@@ -10,13 +10,16 @@
           src="~/assets/images/paddys.jpg"
           alt=""
         />
-        <h3 class="mt-4 font-semibold text-2xl">
-          Marley<svg
+        <h3
+          class="mt-4 font-semibold text-2xl flex items-center justify-center"
+        >
+          <span>Marley</span>
+          <svg
             aria-hidden="true"
             focusable="false"
             data-prefix="fas"
             data-icon="dog"
-            class="svg-inline--fa fa-dog fa-w-18"
+            class="svg-inline--fa fa-dog w-8 ml-2"
             role="img"
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 576 512"
@@ -39,13 +42,16 @@
           src="~/assets/images/paddys.jpg"
           alt=""
         />
-        <h3 class="mt-4 font-semibold text-2xl">
-          Diana<svg
+        <h3
+          class="mt-4 font-semibold text-2xl flex items-center justify-center"
+        >
+          <span>Diana</span>
+          <svg
             aria-hidden="true"
             focusable="false"
             data-prefix="fas"
             data-icon="cat"
-            class="svg-inline--fa fa-cat fa-w-16"
+            class="svg-inline--fa fa-cat w-8 ml-2"
             role="img"
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 512 512"
@@ -66,7 +72,7 @@
         </ul>
       </div>
     </div>
-    <hr class="mt-8 md:mt-12 w-1/6 mx-auto border-2 border-green-500" />
+    <hr class="mt-8 md:mt-12 w-1/6 mx-auto border-2 border-green-600" />
   </section>
 </template>
 
