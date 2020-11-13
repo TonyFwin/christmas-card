@@ -42,7 +42,7 @@
         </p>
       </div>
     </div>
-    <hr class="mt-8 md:mt-12 w-1/6 mx-auto border-2 border-red-500" />
+    <hr class="mt-8 md:mt-12 w-1/6 mx-auto border-2 border-red-600" />
   </section>
 </template>
 
