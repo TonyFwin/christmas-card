@@ -7,7 +7,7 @@
       <div class="flex flex-col">
         <img
           class="max-w-full rounded-lg shadow-lg"
-          src="~/assets/images/paddys.jpg"
+          src="~/assets/images/merj.jpeg"
           alt=""
         />
         <h3
@@ -33,13 +33,16 @@
         <ul class="mt-4">
           <li>Marley Turned 6 this year</li>
           <li>She also lost a tooth</li>
-          <li>She's been loving patio's in the Twin Cities</li>
+          <li>
+            She's been loving patio life in the Twin Cities as well as visiting
+            her new favorite spot pictured above.
+          </li>
         </ul>
       </div>
       <div class="flex flex-col">
         <img
           class="max-w-full rounded-lg shadow-lg"
-          src="~/assets/images/paddys.jpg"
+          src="~/assets/images/snugdiana.jpeg"
           alt=""
         />
         <h3
@@ -63,11 +66,11 @@
           </svg>
         </h3>
         <ul class="mt-4">
-          <li>Marley Turned 3 this year</li>
+          <li>Diana Turned 3 this year!</li>
           <li>The vet said she needs to lose a pound or two</li>
           <li>
-            Her favorite pasttime at the new place is threatening the alleyway
-            squirrels
+            Her new favorite pasttime is threatening the alleyway birds and
+            squirrels from our many window sills.
           </li>
         </ul>
       </div>
