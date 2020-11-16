@@ -14,27 +14,27 @@
     >
       <img
         class="max-w-full rounded-lg shadow-lg"
-        src="~/assets/images/paddys.jpg"
+        src="~/assets/images/syd-kate.jpeg"
         alt=""
       /><img
         class="max-w-full rounded-lg shadow-lg"
-        src="~/assets/images/paddys.jpg"
+        src="~/assets/images/yeehaw.jpeg"
         alt=""
       /><img
         class="max-w-full rounded-lg shadow-lg"
-        src="~/assets/images/paddys.jpg"
+        src="~/assets/images/bean.jpg"
         alt=""
       /><img
         class="max-w-full rounded-lg shadow-lg"
-        src="~/assets/images/paddys.jpg"
+        src="~/assets/images/hars.jpg"
         alt=""
       /><img
         class="max-w-full rounded-lg shadow-lg"
-        src="~/assets/images/paddys.jpg"
+        src="~/assets/images/bigsnugs.jpg"
         alt=""
       /><img
         class="max-w-full rounded-lg shadow-lg"
-        src="~/assets/images/paddys.jpg"
+        src="~/assets/images/strawbale.jpeg"
         alt=""
       />
     </div>

@@ -4,7 +4,7 @@
       <div class="tape top-left"></div>
       <img
         class="shadow-lg rounded max-w-full h-auto align-middle border-none"
-        src="~/assets/images/paddys.jpg"
+        src="~/assets/images/paddys-2.jpg"
         alt=""
       />
       <div class="tape bottom-right"></div>

@@ -4,7 +4,7 @@
       <div class="w-full md:w-5/12 mr-auto">
         <img
           class="max-w-full rounded-lg shadow-lg"
-          src="~/assets/images/paddys.jpg"
+          src="~/assets/images/nordeast.png"
           alt=""
         />
       </div>
