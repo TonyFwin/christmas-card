@@ -9,7 +9,7 @@
         />
       </div>
       <div class="w-full md:w-6/12 mx-auto flex flex-col justify-center">
-        <h3 class="text-4xl font-semibold px-4 flex items-center">
+        <h3 class="text-4xl font-semibold px-4 flex items-center mb-8">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="40"

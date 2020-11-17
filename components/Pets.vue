@@ -1,6 +1,6 @@
 <template>
   <section class="py-4 md:py-8">
-    <div class="container mx-auto text-center mb-8">
+    <div class="container mx-auto text-center mb-16">
       <h2 class="text-4xl font-semibold flex justify-center items-center">
         <svg
           aria-hidden="true"
