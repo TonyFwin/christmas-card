@@ -1,6 +1,6 @@
 <template>
-  <section class="py-8 md:py-12">
-    <div class="container m-auto flex flex-wrap text-center">
+  <section class="py-4 md:py-8">
+    <div class="container m-auto flex flex-wrap">
       <div class="w-full md:w-5/12 ml-auto order-1">
         <img
           class="max-w-full rounded-lg shadow-lg"
@@ -8,27 +8,52 @@
           alt=""
         />
       </div>
-      <div class="w-full md:w-6/12 mx-auto">
-        <h3
-          class="text-4xl font-semibold px-4 flex items-center justify-center"
-        >
+      <div class="w-full md:w-6/12 mx-auto flex flex-col">
+        <h3 class="text-4xl font-semibold px-4 flex items-center">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            width="40"
+            height="40"
+            fill="#38a169"
+            viewBox="0 0 256 256"
+            class="mr-3"
+          >
+            <rect width="256" height="256" fill="none"></rect>
+            <path
+              d="M128.0293,216s-100-56-100-124A52.00881,52.00881,0,0,1,128.02938,71.965l-.0002.00008A52.00882,52.00882,0,0,1,228.0293,92C228.0293,160,128.0293,216,128.0293,216Z"
+              opacity="0.2"
+            ></path>
+            <path
+              d="M128.0293,216s-100-56-100-124A52.00881,52.00881,0,0,1,128.02938,71.965l-.0002.00008A52.00882,52.00882,0,0,1,228.0293,92C228.0293,160,128.0293,216,128.0293,216Z"
+              fill="none"
+              stroke="#38a169"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="16"
+            ></path>
+          </svg>
           We celebrated our 4th anniversary
           <svg
             xmlns="http://www.w3.org/2000/svg"
+            width="40"
+            height="40"
+            fill="#e55e3e"
             class="ml-3"
-            width="44"
-            height="44"
-            viewBox="0 0 24 24"
-            stroke-width="1.5"
-            stroke="#F44336"
-            fill="none"
-            stroke-linecap="round"
-            stroke-linejoin="round"
+            viewBox="0 0 256 256"
           >
-            <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+            <rect width="256" height="256" fill="none"></rect>
             <path
-              d="M19.5 13.572l-7.5 7.428l-7.5 -7.428m0 0a5 5 0 1 1 7.5 -6.566a5 5 0 1 1 7.5 6.572"
-            />
+              d="M128.0293,216s-100-56-100-124A52.00881,52.00881,0,0,1,128.02938,71.965l-.0002.00008A52.00882,52.00882,0,0,1,228.0293,92C228.0293,160,128.0293,216,128.0293,216Z"
+              opacity="0.2"
+            ></path>
+            <path
+              d="M128.0293,216s-100-56-100-124A52.00881,52.00881,0,0,1,128.02938,71.965l-.0002.00008A52.00882,52.00882,0,0,1,228.0293,92C228.0293,160,128.0293,216,128.0293,216Z"
+              fill="none"
+              stroke="#e55e3e"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+              stroke-width="16"
+            ></path>
           </svg>
         </h3>
         <p class="mt-4 text-gray-800">
@@ -42,7 +67,7 @@
         </p>
       </div>
     </div>
-    <hr class="mt-8 md:mt-12 w-1/6 mx-auto border-2 border-red-600" />
+    <hr class="mt-8 md:mt-16 w-1/6 mx-auto border-2 border-red-600" />
   </section>
 </template>
 
