@@ -1,5 +1,5 @@
 <template>
-  <section class="pt-8 md:pt-16">
+  <section class="pt-8 md:pt-16 mb-4">
     <div class="container mx-auto relative">
       <div class="tape top-left"></div>
       <img

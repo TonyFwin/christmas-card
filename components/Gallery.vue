@@ -1,5 +1,5 @@
 <template>
-  <section class="py-8 md:py-12">
+  <section class="py-4 md:py-6 mb-4 md:mb-6">
     <div class="container mx-auto text-center mb-8">
       <h2 class="text-4xl font-semibold">
         Merry Christmas and Happy New Year!
@@ -16,25 +16,45 @@
         class="max-w-full rounded-lg shadow-lg"
         src="~/assets/images/syd-kate.jpeg"
         alt=""
-      /><img
+      />
+      <img
         class="max-w-full rounded-lg shadow-lg"
         src="~/assets/images/yeehaw.jpeg"
         alt=""
-      /><img
+      />
+      <img
         class="max-w-full rounded-lg shadow-lg"
         src="~/assets/images/bean.jpg"
         alt=""
-      /><img
+      />
+      <img
         class="max-w-full rounded-lg shadow-lg"
         src="~/assets/images/hars.jpg"
         alt=""
-      /><img
+      />
+      <img
         class="max-w-full rounded-lg shadow-lg"
         src="~/assets/images/bigsnugs.jpg"
         alt=""
-      /><img
+      />
+      <img
         class="max-w-full rounded-lg shadow-lg"
         src="~/assets/images/strawbale.jpeg"
+        alt=""
+      />
+      <img
+        class="max-w-full rounded-lg shadow-lg"
+        src="~/assets/images/floyd.jpg"
+        alt=""
+      />
+      <img
+        class="max-w-full rounded-lg shadow-lg"
+        src="~/assets/images/theboys.jpg"
+        alt=""
+      />
+      <img
+        class="max-w-full rounded-lg shadow-lg"
+        src="~/assets/images/pitstop.jpeg"
         alt=""
       />
     </div>
