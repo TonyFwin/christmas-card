@@ -29,7 +29,7 @@
       />
       <img
         class="max-w-full rounded-lg shadow-lg"
-        src="~/assets/images/hars.jpg"
+        src="~/assets/images/boys2.jpg"
         alt=""
       />
       <img
@@ -54,7 +54,22 @@
       />
       <img
         class="max-w-full rounded-lg shadow-lg"
-        src="~/assets/images/pitstop.jpeg"
+        src="~/assets/images/couple.jpg"
+        alt=""
+      />
+      <img
+        class="max-w-full rounded-lg shadow-lg"
+        src="~/assets/images/riverwalk.jpg"
+        alt=""
+      />
+      <img
+        class="max-w-full rounded-lg shadow-lg"
+        src="~/assets/images/weirdcats.jpg"
+        alt=""
+      />
+      <img
+        class="max-w-full rounded-lg shadow-lg"
+        src="~/assets/images/boys3.jpg"
         alt=""
       />
     </div>
