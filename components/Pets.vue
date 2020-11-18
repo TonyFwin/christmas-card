@@ -35,22 +35,20 @@
         </svg>
       </h2>
     </div>
-    <div
-      class="container m-auto flex flex-wrap shadow-sm rounded-b-lg lg:rounded-r-lg"
-    >
+    <div class="container m-auto flex flex-wrap rounded-b-lg lg:rounded-r-lg">
       <div class="flex flex-wrap -mb-8 md:-mb-16 -mx-6">
         <div
           class="w-full md:w-1/2 lg:w-full flex flex-wrap mb-8 md:mb-16 px-6"
         >
           <div class="@MARLEY w-full lg:w-6/12 mr-auto">
             <img
-              class="max-w-full rounded-t-lg lg:rounded-l-lg md:h-64 lg:h-auto"
+              class="max-w-full rounded-t-lg lg:rounded-t-none lg:rounded-l-lg md:h-52 lg:h-auto lg:shadow-lg"
               src="~/assets/images/merj.jpeg"
               alt=""
             />
           </div>
           <div
-            class="@MARLEYTEXT bg-gray-200 w-full lg:w-6/12 mx-auto flex flex-col justify-center p-8 lg:px-8 rounded-b-lg lg:rounded-r-lg"
+            class="@MARLEYTEXT bg-gray-200 w-full lg:w-6/12 mx-auto flex flex-col justify-center p-8 lg:px-8 rounded-b-lg lg:rounded-b-none lg:rounded-r-lg shadow-lg"
           >
             <h3 class="font-semibold text-4xl flex items-center">Marley</h3>
             <p class="mt-8">
@@ -67,16 +65,18 @@
         <div
           class="w-full md:w-1/2 lg:w-full flex flex-wrap mb-8 md:mb-16 px-6"
         >
-          <div class="@DIANA w-full lg:w-6/12 m-auto order-0 lg:order-1">
+          <div
+            class="@DIANA w-full lg:w-6/12 lg:m-auto order-0 lg:order-1 bg-gray-200"
+          >
             <img
-              class="max-w-full rounded-t-lg lg:rounded-l-lg md:h-52 lg:h-auto"
+              class="max-w-full rounded-t-lg lg:rounded-t-none lg:rounded-r-lg md:h-52 lg:h-auto shadow-lg"
               src="~/assets/images/snugdiana.jpeg"
               alt=""
             />
           </div>
 
           <div
-            class="@DIANATEXT bg-gray-200 w-full lg:w-6/12 mx-auto flex flex-col justify-center p-8 lg:px-8 rounded-b-lg lg:rounded-l-lg"
+            class="@DIANATEXT bg-gray-200 w-full lg:w-6/12 mx-auto flex flex-col justify-center p-8 lg:px-8 rounded-b-lg lg:rounded-b-none lg:rounded-l-lg shadow-lg"
           >
             <h3 class="font-semibold text-4xl flex items-center">Diana</h3>
             <p class="mt-8">
