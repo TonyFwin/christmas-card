@@ -23,7 +23,7 @@
           focusable="false"
           data-prefix="fas"
           data-icon="dog"
-          class="svg-inline--fa fa-dog w-8 ml-4"
+          class="svg-inline--fa fa-dog w-10 ml-4"
           role="img"
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 576 512"
