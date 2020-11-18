@@ -35,7 +35,7 @@
   text-align: center;
   white-space: nowrap;
   overflow: hidden;
-  position: absolute;
+  position: fixed;
   z-index: 1;
   margin: -15px 0 0 0;
   padding: 0;
