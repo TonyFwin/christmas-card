@@ -1,5 +1,5 @@
 <template>
-  <section class="py-4 md:py-6 mb-4 md:mb-6">
+  <section class="py-4 md:py-6 pb-4 md:pb-6">
     <div class="container mx-auto text-center mb-16">
       <h2 class="text-4xl font-semibold">
         Merry Christmas and Happy New Year!
