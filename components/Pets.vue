@@ -1,6 +1,6 @@
 <template>
   <section class="py-4 md:py-8">
-    <div class="container mx-auto text-center mb-16">
+    <div class="container mx-auto text-center mb-8 lg:mb-16">
       <h2 class="text-4xl font-semibold flex justify-center items-center">
         <svg
           aria-hidden="true"
@@ -35,36 +35,59 @@
         </svg>
       </h2>
     </div>
+    <div
+      class="container m-auto flex flex-wrap shadow-sm rounded-b-lg lg:rounded-r-lg"
+    >
+      <div class="flex flex-wrap -mb-8 md:-mb-16 -mx-6">
+        <div
+          class="w-full md:w-1/2 lg:w-full flex flex-wrap mb-8 md:mb-16 px-6"
+        >
+          <div class="@MARLEY w-full lg:w-6/12 mr-auto">
+            <img
+              class="max-w-full rounded-t-lg lg:rounded-l-lg md:h-64 lg:h-auto"
+              src="~/assets/images/merj.jpeg"
+              alt=""
+            />
+          </div>
+          <div
+            class="@MARLEYTEXT bg-gray-200 w-full lg:w-6/12 mx-auto flex flex-col justify-center p-8 lg:px-8 rounded-b-lg lg:rounded-r-lg"
+          >
+            <h3 class="font-semibold text-4xl flex items-center">Marley</h3>
+            <p class="mt-8">
+              Marley has had an eventful 2020. She celebrated her 6th birthday
+              in January. She also went to the vet for ouchies in both her front
+              ankles and had to have a molar removed. She's been enjoying
+              Minneapolis patios and being very close the river. Marley is
+              loving the work from home life and has been taking full advantage
+              of Tony's new job.
+            </p>
+          </div>
+        </div>
 
-    <div class="container bg-gray-100 m-auto flex flex-wrap shadow-sm">
-      <div class="w-full md:w-6/12 mr-auto">
-        <img class="max-w-full" src="~/assets/images/merj.jpeg" alt="" />
-      </div>
-      <div class="w-full md:w-6/12 mx-auto flex flex-col justify-center px-8">
-        <h3 class="font-semibold text-4xl flex items-center">Marley</h3>
-        <p class="mt-8">
-          Marley has had an eventful 2020. She celebrated her 6th birthday in
-          January. She also went to the vet for ouchies in both her front ankles
-          and had to have a molar removed. She's been enjoying Minneapolis
-          patios and being very close the river. Marley is loving the work from
-          home life and has been taking full advantage of Tony's new job.
-        </p>
-      </div>
-    </div>
+        <div
+          class="w-full md:w-1/2 lg:w-full flex flex-wrap mb-8 md:mb-16 px-6"
+        >
+          <div class="@DIANA w-full lg:w-6/12 m-auto order-0 lg:order-1">
+            <img
+              class="max-w-full rounded-t-lg lg:rounded-l-lg md:h-52 lg:h-auto"
+              src="~/assets/images/snugdiana.jpeg"
+              alt=""
+            />
+          </div>
 
-    <div class="container bg-gray-100 m-auto flex flex-wrap shadow-sm mt-8">
-      <div class="w-full md:w-6/12 mx-auto flex flex-col justify-center px-8">
-        <h3 class="font-semibold text-4xl flex items-center">Diana</h3>
-        <p class="mt-8">
-          Diana has also had an eventful year! She celebrated her 3rd birthday
-          in October. The vet told her she needed to lose a pound or two. She
-          has a new favorite pastime which includes sitting in the window and
-          chirping at the birds and squirrels in the alleyway as well as
-          screaming for food before sunrise.
-        </p>
-      </div>
-      <div class="w-full md:w-6/12 mr-auto">
-        <img class="max-w-full" src="~/assets/images/snugdiana.jpeg" alt="" />
+          <div
+            class="@DIANATEXT bg-gray-200 w-full lg:w-6/12 mx-auto flex flex-col justify-center p-8 lg:px-8 rounded-b-lg lg:rounded-l-lg"
+          >
+            <h3 class="font-semibold text-4xl flex items-center">Diana</h3>
+            <p class="mt-8">
+              Diana has also had an eventful year! She celebrated her 3rd
+              birthday in October. The vet told her she needed to lose a pound
+              or two. She has a new favorite pastime which includes sitting in
+              the window and chirping at the birds and squirrels in the alleyway
+              as well as screaming for food before sunrise.
+            </p>
+          </div>
+        </div>
       </div>
     </div>
     <hr class="mt-8 md:mt-16 w-1/6 mx-auto border-2 border-green-600" />
