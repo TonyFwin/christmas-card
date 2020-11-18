@@ -27,6 +27,13 @@
     <li></li>
     <li></li>
     <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
   </ul>
 </template>
 
@@ -36,6 +43,7 @@
   white-space: nowrap;
   overflow: hidden;
   position: fixed;
+  left: 0;
   z-index: 1;
   margin: -15px 0 0 0;
   padding: 0;

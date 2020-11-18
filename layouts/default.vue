@@ -17,6 +17,10 @@ html {
   box-sizing: border-box;
 }
 
+body {
+  overflow-x: hidden;
+}
+
 h1,
 h2,
 h3,
