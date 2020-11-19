@@ -54,7 +54,7 @@
       />
       <img
         class="max-w-full rounded-lg shadow-lg"
-        src="~/assets/images/weirdcats.jpg"
+        src="~/assets/images/lurcatkate.jpeg"
         alt=""
       />
       <img
