@@ -4,15 +4,15 @@
       <div class="w-full md:w-5/12 ml-auto order-0 lg:order-1 my-8 md:my-auto">
         <img
           class="w-full md:max-w-full rounded-lg shadow-lg"
-          src="~/assets/images/sunflowers.jpg"
+          src="~/assets/images/katey-tony.jpeg"
           alt=""
         />
       </div>
       <div class="w-full md:w-6/12 mx-auto flex flex-col justify-center">
         <h3
-          class="text-3xl lg:text-4xl font-semibold px-4 flex items-center my-8 md:mb-8 justify-center lg:justify-start"
+          class="text-3xl lg:text-4xl font-semibold flex items-center my-8 md:mb-8 justify-center lg:justify-start"
         >
-          We celebrated our 4th anniversary
+          Cheers to 4 years!
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="40"
