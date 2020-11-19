@@ -10,7 +10,7 @@
       </div>
       <div class="w-full md:w-6/12 mx-auto flex flex-col justify-center">
         <h3
-          class="text-3xl lg:text-4xl font-semibold px-4 flex items-center my-8 md:mb-8 justify-center md:justify-start"
+          class="text-3xl lg:text-4xl font-semibold flex items-center my-8 md:mb-8 justify-center md:justify-start"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
