@@ -11,14 +11,20 @@ export default {
       { hid: 'description', name: 'description', content: '' },
     ],
     link: [
-        { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-        { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Open+Sans&display=swap'},
-         { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Mountains+of+Christmas:wght@400;700&display=swap'}
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      {
+        rel: 'stylesheet',
+        href: 'https://fonts.googleapis.com/css2?family=Open+Sans&display=swap',
+      },
+      {
+        rel: 'stylesheet',
+        href:
+          'https://fonts.googleapis.com/css2?family=Mountains+of+Christmas:wght@400;700&display=swap',
+      },
     ],
   },
 
   // Global CSS (https://go.nuxtjs.dev/config-css)
-  css: [],
 
   // Plugins to run before rendering page (https://go.nuxtjs.dev/config-plugins)
   plugins: [],
