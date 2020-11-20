@@ -100,13 +100,11 @@
           We Moved to Minneapolis
         </h3>
         <p class="md:mt-4 text-gray-800">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat. Duis aute irure dolor in
-          reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-          pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-          culpa qui officia deserunt mollit anim id est laborum.
+          We finally achieved the goal of moving to a big city! We now live in
+          the Northeast neighborhood of Minneapolis. Katey works for North
+          Memorial Hospital as a surgical nurse and Tony is a Front End
+          Developer for Mod Creative Inc. We're both loving our new jobs and are
+          planning on purchasing a home in the next in the Twin Cities Metro.
         </p>
       </div>
     </div>

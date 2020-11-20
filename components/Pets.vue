@@ -54,10 +54,10 @@
             <p class="mt-8">
               Marley has had an eventful 2020. She celebrated her 6th birthday
               in January. She also went to the vet for ouchies in both her front
-              ankles and had to have a molar removed. She's been enjoying
-              Minneapolis patios and being very close the river. Marley is
-              loving the work from home life and has been taking full advantage
-              of Tony's new job.
+              ankles and she had to have a molar removed. Marley's been enjoying
+              the patios here in the Twin Cities as well as our proximity to the
+              river. Working from home has been a blessing to Marley who has
+              enjoyed watching Tony work since March.
             </p>
           </div>
         </div>
@@ -81,10 +81,11 @@
             <h3 class="font-semibold text-4xl flex items-center">Diana</h3>
             <p class="mt-8">
               Diana has also had an eventful year! She celebrated her 3rd
-              birthday in October. The vet told her she needed to lose a pound
-              or two. She has a new favorite pastime which includes sitting in
-              the window and chirping at the birds and squirrels in the alleyway
-              as well as screaming for food before sunrise.
+              birthday in October. The vet told tells us that she needs to lose
+              a pound or two, to her dismay. Diana has a new pastimes since we
+              moved, they include chirping and threatening alleyway squirrels
+              and birds, and making sure we know how hungry she is before
+              sunrise.
             </p>
           </div>
         </div>
