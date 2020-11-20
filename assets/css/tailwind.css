@@ -1,0 +1,24 @@
+/* purgecss start ignore */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+/* purgecss end ignore */
+@import 'tailwindcss/utilities';
+
+@layer components {
+  .red-line {
+    @apply mt-8 w-1/6 mx-auto border-2 border-red-600;
+  }
+  .green-line {
+    @apply mt-8 w-1/6 mx-auto border-2 border-green-600;
+  }
+  .gallery-photo {
+    @apply max-w-full rounded-lg shadow-lg;
+  }
+}
+
+@responsive md {
+  .red-line,
+  .green-line {
+    @apply mt-16;
+  }
+}
