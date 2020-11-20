@@ -61,8 +61,8 @@
               in January. She also went to the vet for ouchies in both her front
               ankles and she had to have a molar removed. Marley's been enjoying
               the patios here in the Twin Cities as well as our proximity to the
-              river. Working from home has been a blessing to Marley who has
-              enjoyed watching Tony work since March.
+              river. Tony working from home has been a blessing to Marley who
+              has enjoyed watching Tony work since March.
             </p>
           </div>
         </div>

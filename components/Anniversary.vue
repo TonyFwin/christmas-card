@@ -39,7 +39,7 @@
         <p class="mt-4 text-gray-800">
           Four amazing years together, and here's to many more. We celebrated by
           packing up everything we owned and moving into a tiny apartment in the
-          cities.
+          Twin Cities.
         </p>
       </div>
     </div>

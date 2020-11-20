@@ -102,9 +102,10 @@
         <p class="md:mt-4 text-gray-800">
           We finally achieved the goal of moving to a big city! We now live in
           the Northeast neighborhood of Minneapolis. Katey works for North
-          Memorial Hospital as a surgical nurse and Tony is a Front End
+          Memorial Hospital as a operating room nurse and Tony is a Front End
           Developer for Mod Creative Inc. We're both loving our new jobs and are
-          planning on purchasing a home in the next in the Twin Cities Metro.
+          planning on purchasing a home in the next year here in the Twin Cities
+          Metro.
         </p>
       </div>
     </div>

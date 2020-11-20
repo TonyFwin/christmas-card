@@ -5,7 +5,8 @@
         Seasons Greetings from the Nguyen family!
       </h1>
       <p class="mt-2 leading-loose text-lg md:text-2xl text-gray-800">
-        wish you good health this holiday season &#183; love katey + tony
+        Sending love and holiday wishes from our quarantine bubble to yours
+        &#183; love katey + tony
       </p>
     </div>
     <hr class="red-line" />
