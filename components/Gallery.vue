@@ -12,66 +12,18 @@
     <div
       class="container m-auto grid grid-cols-2 lg:grid-cols-3 gap-6 md:gap-8 text-center"
     >
-      <img
-        class="max-w-full rounded-lg shadow-lg"
-        src="~/assets/images/syd-kate.jpeg"
-        alt=""
-      />
-      <img
-        class="max-w-full rounded-lg shadow-lg"
-        src="~/assets/images/yeehaw.jpeg"
-        alt=""
-      />
-      <img
-        class="max-w-full rounded-lg shadow-lg"
-        src="~/assets/images/bean.jpg"
-        alt=""
-      />
-      <img
-        class="max-w-full rounded-lg shadow-lg"
-        src="~/assets/images/boys2.jpg"
-        alt=""
-      />
-      <img
-        class="max-w-full rounded-lg shadow-lg"
-        src="~/assets/images/bigsnugs.jpg"
-        alt=""
-      />
-      <img
-        class="max-w-full rounded-lg shadow-lg"
-        src="~/assets/images/strawbale.jpeg"
-        alt=""
-      />
-      <img
-        class="max-w-full rounded-lg shadow-lg"
-        src="~/assets/images/floyd.jpg"
-        alt=""
-      />
-      <img
-        class="max-w-full rounded-lg shadow-lg"
-        src="~/assets/images/theboys.jpg"
-        alt=""
-      />
-      <img
-        class="max-w-full rounded-lg shadow-lg"
-        src="~/assets/images/lurcatkate.jpeg"
-        alt=""
-      />
-      <img
-        class="max-w-full rounded-lg shadow-lg"
-        src="~/assets/images/riverwalk.jpg"
-        alt=""
-      />
-      <img
-        class="max-w-full rounded-lg shadow-lg"
-        src="~/assets/images/weirdcats.jpg"
-        alt=""
-      />
-      <img
-        class="max-w-full rounded-lg shadow-lg"
-        src="~/assets/images/boys3.jpg"
-        alt=""
-      />
+      <img class="gallery-photo" src="~/assets/images/syd-kate.jpeg" alt="" />
+      <img class="gallery-photo" src="~/assets/images/yeehaw.jpeg" alt="" />
+      <img class="gallery-photo" src="~/assets/images/bean.jpg" alt="" />
+      <img class="gallery-photo" src="~/assets/images/boys2.jpg" alt="" />
+      <img class="gallery-photo" src="~/assets/images/bigsnugs.jpg" alt="" />
+      <img class="gallery-photo" src="~/assets/images/strawbale.jpeg" alt="" />
+      <img class="gallery-photo" src="~/assets/images/floyd.jpg" alt="" />
+      <img class="gallery-photo" src="~/assets/images/theboys.jpg" alt="" />
+      <img class="gallery-photo" src="~/assets/images/lurcatkate.jpeg" alt="" />
+      <img class="gallery-photo" src="~/assets/images/riverwalk.jpg" alt="" />
+      <img class="gallery-photo" src="~/assets/images/weirdcats.jpg" alt="" />
+      <img class="gallery-photo" src="~/assets/images/boys3.jpg" alt="" />
     </div>
   </section>
 </template>
