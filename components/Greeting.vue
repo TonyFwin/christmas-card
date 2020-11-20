@@ -8,7 +8,7 @@
         Wish you all the best and most wonderful things this holiday season!
       </p>
     </div>
-    <hr class="mt-8 md:mt-16 w-1/6 mx-auto border-2 border-red-600" />
+    <hr class="red-line" />
   </section>
 </template>
 <style></style>

@@ -110,7 +110,7 @@
         </p>
       </div>
     </div>
-    <hr class="mt-8 md:mt-16 w-1/6 mx-auto border-2 border-green-600" />
+    <hr class="green-line" />
   </section>
 </template>
 
