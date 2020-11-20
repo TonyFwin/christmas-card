@@ -1,5 +1,5 @@
 <template>
-  <section class="py-4 md:py-8">
+  <section class="padded-section">
     <div class="container m-auto flex flex-wrap">
       <div class="w-full md:w-5/12 m-auto">
         <img

@@ -14,9 +14,15 @@
   .gallery-photo {
     @apply max-w-full rounded-lg shadow-lg;
   }
+  .padded-section {
+    @apply py-4;
+  }
 }
 
 @responsive md {
+  .padded-section {
+    @apply py-8;
+  }
   .red-line,
   .green-line {
     @apply mt-16;

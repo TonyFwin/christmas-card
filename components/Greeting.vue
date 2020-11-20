@@ -1,5 +1,5 @@
 <template>
-  <section class="py-4 md:py-8">
+  <section class="padded-section">
     <div class="container m-auto flex flex-col text-center">
       <h1 class="text-4xl md:text-5xl lg:text-6xl font-medium">
         Seasons Greetings from the Nguyen family!
