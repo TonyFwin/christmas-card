@@ -97,7 +97,7 @@
               stroke-width="16"
             ></line>
           </svg>
-          We Moved to Minneapolis
+          We Moved to <span class="text-red-600 ml-2">Minneapolis</span>
         </h3>
         <p class="md:mt-4 text-gray-800">
           We finally achieved the goal of moving to a big city! We now live in

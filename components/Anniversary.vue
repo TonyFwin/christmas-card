@@ -12,7 +12,7 @@
         <h3
           class="text-3xl lg:text-4xl font-semibold flex items-center my-8 md:mb-8 justify-center lg:justify-start"
         >
-          Cheers to 4 years!
+          Cheers to<span class="text-green-600 mx-2">4</span> years!
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="40"
