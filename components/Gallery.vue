@@ -1,10 +1,10 @@
 <template>
   <section class="padden-section pb-8">
     <div class="container mx-auto text-center mt-auto">
-      <h2 class="text-4xl font-semibold mt-8">
+      <h2 class="text-4xl font-semibold my-8">
         Merry Christmas and Happy New Year!
       </h2>
-      <p class="mt-4 text-gray-800">
+      <p class="mb-8 text-gray-800">
         We hope you enjoyed our little Christmas 'card'. Stay safe, stay warm
         and have a Happy Holidays from the Nguyen family!
       </p>
