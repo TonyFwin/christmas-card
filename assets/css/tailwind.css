@@ -6,10 +6,10 @@
 
 @layer components {
   .red-line {
-    @apply mt-8 w-1/6 mx-auto border-2 border-red-600;
+    @apply mt-4 w-1/6 mx-auto border-2 border-red-600;
   }
   .green-line {
-    @apply mt-8 w-1/6 mx-auto border-2 border-green-600;
+    @apply mt-4 w-1/6 mx-auto border-2 border-green-600;
   }
   .gallery-photo {
     @apply max-w-full rounded-lg shadow-lg;
