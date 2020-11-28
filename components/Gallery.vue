@@ -1,6 +1,6 @@
 <template>
-  <section class="padden-section">
-    <div class="container mx-auto text-center mt-auto mb-16">
+  <section class="padden-section pb-8">
+    <div class="container mx-auto text-center mt-auto">
       <h2 class="text-4xl font-semibold mt-8">
         Merry Christmas and Happy New Year!
       </h2>
