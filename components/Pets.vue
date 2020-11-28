@@ -71,17 +71,17 @@
           class="w-full md:w-1/2 lg:w-full flex flex-wrap mb-8 md:mb-16 px-6"
         >
           <div
-            class="@DIANA w-full lg:w-6/12 lg:m-auto order-0 lg:order-1 bg-gray-200"
+            class="@DIANA w-full lg:w-6/12 lg:m-auto order-0 lg:order-1 bg-gray-200 z-50"
           >
             <img
-              class="max-w-full rounded-t-lg lg:rounded-t-none lg:rounded-r-lg md:h-52 lg:h-auto shadow-lg"
+              class="max-w-full rounded-t-lg lg:rounded-t-none lg:rounded-r-lg md:h-52 lg:h-auto shadow-lg md:-mb-24 lg:mb-auto"
               src="~/assets/images/snugdiana.jpeg"
               alt=""
             />
           </div>
 
           <div
-            class="@DIANATEXT bg-gray-200 w-full lg:w-6/12 mx-auto flex flex-col justify-center p-8 lg:px-8 rounded-b-lg lg:rounded-b-none lg:rounded-l-lg shadow-lg"
+            class="@DIANATEXT bg-gray-200 w-full lg:w-6/12 mx-auto flex flex-col justify-center p-8 lg:px-8 rounded-b-lg lg:rounded-b-none lg:rounded-l-lg shadow-lg z-10"
           >
             <h3 class="font-semibold text-4xl flex items-center">Diana</h3>
             <p class="mt-8">
