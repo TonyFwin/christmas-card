@@ -1,7 +1,7 @@
 <template>
-  <section class="py-4 md:py-6 pb-4 md:pb-6">
-    <div class="container mx-auto text-center mb-16">
-      <h2 class="text-4xl font-semibold">
+  <section class="padden-section">
+    <div class="container mx-auto text-center mt-auto mb-16">
+      <h2 class="text-4xl font-semibold mt-8">
         Merry Christmas and Happy New Year!
       </h2>
       <p class="mt-4 text-gray-800">
