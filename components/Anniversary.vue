@@ -1,7 +1,7 @@
 <template>
   <section class="padded-section">
     <div class="container m-auto flex flex-wrap">
-      <div class="w-full md:w-5/12 ml-auto order-0 lg:order-1 my-8 md:my-auto">
+      <div class="w-full md:w-5/12 ml-auto order-0 lg:order-1 md:my-auto">
         <img
           class="w-full md:max-w-full rounded-lg shadow-lg"
           src="~/assets/images/katey-tony.jpeg"
@@ -36,7 +36,7 @@
             ></path>
           </svg>
         </h3>
-        <p class="mt-4 text-gray-800">
+        <p class="md:mt-4 text-gray-800">
           Four amazing years together, and here's to many more. We celebrated by
           packing up everything we owned and moving into a tiny apartment in the
           Twin Cities.
