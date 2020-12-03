@@ -87,10 +87,10 @@
             <p class="mt-8">
               Diana has also had an eventful year! She celebrated her 3rd
               birthday in October. The vet told tells us that she needs to lose
-              a pound or two, to her dismay. Diana has a new pastimes since we
-              moved, they include chirping and threatening alleyway squirrels
-              and birds, and making sure we know how hungry she is before
-              sunrise.
+              a pound or two, to her dismay. Diana has started some new pastimes since we
+              moved, they include chirping and threatening the alleyway squirrels
+              and birds, as well as making sure we know how hungry she is before
+              between 4 and 6 am.
             </p>
           </div>
         </div>
